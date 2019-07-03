@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="kafkaConsumer_DefaultArtifact">
+    <output-path>$PROJECT_DIR$/out/artifacts/kafkaConsumer_DefaultArtifact</output-path>
+    <root id="archive" name="default_artifact.jar">
+      <element id="module-output" name="kafkaConsumer" />
+    </root>
+  </artifact>
+</component>
